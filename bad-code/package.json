@@ -1,0 +1,12 @@
+{
+    "name": "gofit-bad",
+    "version": "1.0.0",
+    "description": "GoFit Bad Code Example",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC"
+}
